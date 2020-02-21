@@ -1,4 +1,4 @@
-# DiceRoller\
+# DiceRoller
 $ java homework4\
 1: \
 2: *\
